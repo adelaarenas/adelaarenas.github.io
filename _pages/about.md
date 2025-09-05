@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Cavite, Philippines | maadelaarenas@gmail.com
 
 profile:
   align: right
   image: profilepic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Cavite, Philippines</p>
+  #more_info: >
+    #<p>Cavite, Philippines</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
