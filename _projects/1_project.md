@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internship project at the Philippine Nuclear Research Institute
+title: Internship Project
 description: Project 1 – Calibration of NaI(Tl) Scintillation Detector
 img: assets/img/12.jpg #img tag to put background image on projects landing page
 importance: 1
