@@ -5,7 +5,7 @@ description: Project 1 – Calibration of NaI(Tl) Scintillation Detector
 img: assets/img/12.jpg #img tag to put background image on projects landing page
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ## Overview
@@ -18,10 +18,10 @@ As part of my internship at the **Philippine Nuclear Research Institute (PNRI)**
 - To analyze the resulting spectra of Cs-137 (~662 keV) and Co-60 (~1173, ~1332 keV) gamma peaks.  
 - To apply **linear regression** in determining the calibration curve (channel vs. energy).  
 - To verify detector performance for use in further spectrometric analysis.  
-
+<!---
 ---
 ## Methodology  
-<!---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cs137_spectrum.jpg" title="Cs-137 Spectrum" class="img-fluid rounded z-depth-1" %}
@@ -50,10 +50,10 @@ where *m* is the slope and *b* the intercept.
 
 - **R-value:** Close to 1.0, showing strong correlation.  
 - **Uncertainties:** Included both statistical (counting fluctuations) and instrumental uncertainties.  
-
+<!---
 ---
 
-<!--- ### ✅ Key Results  
+ ### ✅ Key Results  
 - Calibration curve successfully established.  
 - Detector can now be used to identify **unknown radioactive sources** by their energy peaks.  --->
 
