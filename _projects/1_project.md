@@ -18,21 +18,8 @@ As part of my internship at the **Philippine Nuclear Research Institute (PNRI)**
 - To analyze the resulting spectra of Cs-137 (~662 keV) and Co-60 (~1173, ~1332 keV) gamma peaks.  
 - To apply **linear regression** in determining the calibration curve (channel vs. energy).  
 - To verify detector performance for use in further spectrometric analysis.  
-<!---
 ---
-## Methodology  
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cs137_spectrum.jpg" title="Cs-137 Spectrum" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/co60_spectrum.jpg" title="Co-60 Spectrum" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Measured spectra from Cs-137 (left) and Co-60 (right) sources, used in detector calibration.
-</div>--->
+Methodology
 
 ---
 
