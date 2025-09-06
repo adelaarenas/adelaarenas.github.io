@@ -451,8 +451,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-internship-project-at-the-philippine-nuclear-research-institute",
-          title: 'Internship project at the Philippine Nuclear Research Institute',
+          section: "News",},{id: "projects-internship-project",
+          title: 'Internship Project',
           description: "Project 1 – Calibration of NaI(Tl) Scintillation Detector",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -481,9 +481,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-mathematical-modeling",
+          title: 'Mathematical Modeling',
+          description: "SIR model with hospitalization and death",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
