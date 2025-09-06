@@ -456,9 +456,9 @@ ninja.data = [{
           description: "Project 1 – Calibration of NaI(Tl) Scintillation Detector",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-my-undergraduate-thesis",
+          title: 'My Undergraduate Thesis',
+          description: "Evaluation of Neutron Spectra in Different LINAC Configurations Using Modified Bonner Spheres",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
