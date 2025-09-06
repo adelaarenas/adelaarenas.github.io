@@ -27,10 +27,11 @@ latest_posts:
 
 <!--When I’m not working, you’ll find me enjoying **Kdramas, anime, and historical comedies** or diving into a good book like Paulo Coelho's *The Alchemist*. -->
 
-# 👋 Hi, I'm Ma. Adela Arenas, a recent **BSc Applied Physics (Health Physics major)** graduate from the **University of the Philippines Manila**.  
-My experiences span **radiation detection, neutron dosimetry, statistical analysis, and data visualization**, with applications in **health physics, medical physics, and occupational safety**. Alongside my technical background, I also enjoy **teaching, mentoring, and facilitating seminars**, drawing from my experience in both research and community engagement.  
+Hi! I’m **Ma. Adela Arenas**, a recent **BSc Applied Physics (Health Physics major)** graduate from the **University of the Philippines Manila**. My academic and internship experiences range from **neutron dosimetry and gamma spectrometry** to **statistical analysis and data visualization**. I’m passionate about **radiation protection, health physics, and medical applications of physics**, and I hope to contribute to the advancement of **science and technology in the Philippines** in the future.  
 
-I aspire to contribute to the growth of **science and technology in the Philippines** while advancing my career in **medical physics and occupational health & safety**.  
+I recently moved to Canada to pursue opportunities in **medical physics and occupational health and safety**. Alongside my technical background, I also enjoy **teaching, mentoring, and facilitating seminars**, drawing from my experience in both research and community engagement.  
+
+When I’m not working, you’ll find me enjoying **Kdramas, anime, and historical comedies** or diving into a good book like Paulo Coelho's *The Alchemist*.  
 
 ---
 
@@ -38,3 +39,7 @@ I aspire to contribute to the growth of **science and technology in the Philippi
 - ✉️ **Email:** maadelaarenas@gmail.com  
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mearenas)  
 - <i class="fab fa-github"></i> [GitHub](https://github.com/adelaarenas)  
+
+---
+
+*“Humility is not thinking less of yourself, it’s thinking of yourself less.” – C.S. Lewis*
