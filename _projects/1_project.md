@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Detector Calibration 
-description: An Internship Project: Calibration of NaI(Tl) Scintillation Detector
+description: An Internship Project - Calibration of NaI(Tl) Scintillation Detector
 img: assets/img/1.jpg
 importance: 3
 category: work
