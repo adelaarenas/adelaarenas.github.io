@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Undergraduate Thesis
+title: Undergraduate Thesis
 description: Evaluation of Neutron Spectra in Different LINAC Configurations Using Modified Bonner Spheres
 img: assets/img/1.jpg
 importance: 2
