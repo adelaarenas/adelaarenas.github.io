@@ -466,9 +466,9 @@ ninja.data = [{
           description: "SIR Model with Hospitalization and Death",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-statistical-analysis-using-matlab",
+          title: 'Statistical Analysis using MATLAB',
+          description: "Feedbacks of Western North Pacific Tropical Cyclone Properties on ENSO",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
