@@ -27,18 +27,17 @@ latest_posts:
 
 <!--When I’m not working, you’ll find me enjoying **Kdramas, anime, and historical comedies** or diving into a good book like Paulo Coelho's *The Alchemist*. -->
 
-Hi! I’m **Ma. Adela Arenas**, a recent **BSc Applied Physics (Health Physics major)** graduate from the **University of the Philippines Manila**. My academic and internship experiences range from **neutron dosimetry and gamma spectrometry** to **statistical analysis and data visualization**. I’m passionate about **radiation protection, health physics, and medical applications of physics**, and I hope to contribute to the advancement of **science and technology in the Philippines** in the future.  
+Hi! I’m **Ma. Adela Arenas**, a recent BSc Applied Physics (Health Physics major) graduate from the University of the Philippines Manila. My academic and internship experiences range from neutron dosimetry and gamma spectrometry to statistical analysis and data visualization. I’m passionate about radiation protection, health physics, and applications of physics to healthcare, and I hope to contribute to the advancement of science and technology in the Philippines in the future.  
 
-I recently moved to Canada to pursue opportunities in **medical physics and occupational health and safety**. Alongside my technical background, I also enjoy **teaching, mentoring, and facilitating seminars**, drawing from my experience in both research and community engagement.  
+I am currently based in Canada, where I have taken a gap year to spend time with my family. Alongside my technical background, I also enjoy teaching, mentoring, and facilitating seminars, drawing from my experience in both research and community engagement.  
 
-When I’m not working, you’ll find me enjoying **Kdramas, anime, and historical comedies** or diving into a good book like Paulo Coelho's *The Alchemist*.  
+When I’m not working, you’ll find me enjoying Kdramas, anime, and historical comedies or diving into a good book like Paulo Coelho's *The Alchemist*.  
 
 ---
 
-## 📬 Contact  
-- ✉️ **Email:** maadelaarenas@gmail.com  
+## You may contact me through email or my LinkedIn account found here:
+- ✉️ Email: maadelaarenas@gmail.com  
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mearenas)  
-- <i class="fab fa-github"></i> [GitHub](https://github.com/adelaarenas)  
 
 ---
 
