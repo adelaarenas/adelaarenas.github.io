@@ -476,9 +476,9 @@ ninja.data = [{
           description: "A group capstone project in determining water content of different liquids using a DIY laser refractometer.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-cavite-hazard-maps",
+          title: 'Cavite Hazard Maps',
+          description: "I made different hazard maps of my home province using QGIS.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-mathematical-modeling",
