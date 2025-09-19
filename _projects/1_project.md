@@ -2,8 +2,8 @@
 layout: page
 title: Detector Calibration 
 description: An Internship Project - Calibration of NaI(Tl) Scintillation Detector
-img: assets/img/1.jpg
-importance: 3
+img: assets/img/energy-channel-curve.png
+importance: 1
 category: work
 ---
 
