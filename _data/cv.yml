@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: BSc
       institution: University of the Philippines Manila
       year: 2024
       description:
@@ -25,8 +25,8 @@
       institution: Nuclear Reactor Operations Section, DOST - Philippine Nuclear Research Institute
       year: 2023-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted daily experimental measurements of gamma and neutron radiation as an intern and thesis advisee of the institute, collecting data for research and training at the Philippine Research Reactor-I.
+        - Evaluated neutron radiation doses in the radiation therapy (RT) facility of the Philippine General Hospital in collaboration with PNRI scientists and PGH medical physicists, for the radiation protection of RT patients and staff.
 
 - title: Honors and Awards
   type: time_table
