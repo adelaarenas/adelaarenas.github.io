@@ -41,4 +41,4 @@ When I’m not working, you’ll find me enjoying Kdramas, anime, and historical
 
 ---
 
-*“Humility is not thinking less of yourself, it’s thinking of yourself less.” – C.S. Lewis*
+*“Have courage and be kind.” – Cinderella*
