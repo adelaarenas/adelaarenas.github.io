@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SIR Model
-cv_pdf: assets/pdf/Diff_Equation_SIR_Model.pdf
+cv_pdf: Diff_Equation_SIR_Model.pdf
 description: SIR Model with Hospitalization and Death
 img: assets/img/SIHRD_model.png
 importance: 3
@@ -28,4 +28,3 @@ This project is from my Elementary Differential Equations course in undergrad, w
     Graphs of the outbreak progression in 160 days for S, I, H, R, and D compartments with varied α and K values.
 </div>
 
-You may view the full analysis in this paper: 
