@@ -9,7 +9,7 @@ category: work
 
 This project is from my Elementary Differential Equations course in undergrad, where I developed, using Python, an extended SIR model with hospitalization and death and evaluated how varying hospitalization rates and healthcare capacity influence outbreak progression, transmission dynamics, and overall mortality reduction.
 
-[<i class="fab fa-download"></i>](https://adelaarenas.github.io/assets/pdf/Diff_Equation_SIR_Model.pdf)  
+You may download the full paper here: [PDF](https://adelaarenas.github.io/assets/pdf/Diff_Equation_SIR_Model.pdf)  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
