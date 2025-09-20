@@ -26,7 +26,7 @@
     {
       "name": "Nuclear Reactor Operations Section, DOST - Philippine Nuclear Research Institute",
       "position": "Intern, Researcher",
-      "url": "",
+      "url": "adelaarenas.github.io/assets/pdf/PNRI_OJT_Cert.pdf",
       "startDate": "2023-07-03",
       "endDate": "2023-08-10",
       "summary": "Conducted daily experimental measurements of gamma and neutron radiation as an intern and thesis advisee of the institute, collecting data for research and training at the Philippine Research Reactor-I.",
@@ -42,7 +42,7 @@
       "startDate": "2017-07-01",
       "endDate": "2024-06-01",
       "summary": "Organized weekly religious classes and forums across seven towns in Cavite province, guiding 30-60 participants each session to promote community involvement and personal growth.",
-      "highlights": [""]
+      "highlights": ["Catechism, Youth Ministry"]
     }
   ],
   "education": [
@@ -63,14 +63,14 @@
       "title": "Dean's Award for Outstanding Research in Physical and Computing Sciences",
       "date": "2024-07-19",
       "awarder": "College of Arts and Sciences, University of the Philippines Manila",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "url": "assets/pdf/Deans_Award_Cert.pdf",
       "summary": ""
     },
     {
       "title": "DOST-SEI S&T Undergraduate Merit Scholarship",
       "date": "2020-09-01",
       "awarder": "DOST - Science Education Institute",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "url": "",
       "summary": ""
     }
   ],
@@ -79,29 +79,29 @@
       "name": "MATLAB Onramp",
       "date": "2022-09-09",
       "issuer": "MathWorks Training Services",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "url": "adelaarenas.github.io/assets/pdf/MATLAB_Onramp.pdf",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "MATLAB Fundamentals",
       "date": "2022-10-02",
       "issuer": "MathWorks Training Services",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "url": "adelaarenas.github.io/assets/pdf/MATLAB_Fundamentals.pdf",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "MATLAB for Data Processing and Visualization",
       "date": "2022-11-02",
       "issuer": "MathWorks Training Services",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "url": "adelaarenas.github.io/assets/pdf/MATLAB_Data.pdf",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Responsible Conduct of Research",
       "date": "2023-09-15",
       "issuer": "University of the Philippines Manila Research Ethics Board",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "url": "adelaarenas.github.io/assets/pdf/UPMREB_Workshop_Cert.pdf",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -109,7 +109,7 @@
       "name": "Evaluation of neutron spectra in the Linear Accelerator Facility of the Philippine General Hospital using an Indium-based Multishell neutron spectrometer (In-MuNS)",
       "publisher": "Proceedings of the Samahang Pisika ng Pilipinas",
       "releaseDate": "2024-06-21",
-      "url": "https://proceedings.spp-online.org/article/view/SPP-2024-PF-09",
+      "url": "adelaarenas.github.io/assets/pdf/Arenas-Conference-Paper.pdf",
       "summary": ""
     }
   ],
