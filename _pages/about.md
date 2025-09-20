@@ -35,7 +35,7 @@ When I’m not working, you’ll find me enjoying Kdramas, anime, and historical
 
 ---
 
-## You may contact me through email or my LinkedIn account found here:
+**You may contact me through email or my LinkedIn account found here:**
 - ✉️ Email: maadelaarenas@gmail.com  
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mearenas)  
 
