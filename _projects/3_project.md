@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SIR Model
+cv_pdf: assets/pdf/Diff_Equation_SIR_Model.pdf
 description: SIR Model with Hospitalization and Death
 img: assets/img/SIHRD_model.png
 importance: 3
